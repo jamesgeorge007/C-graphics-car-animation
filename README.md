@@ -11,4 +11,4 @@ rectangle()=>Takes 4 parameters,the first 2 being the upper left corner and the 
 arc()=>Takes 5 parameters,the first 2 being the centre of the arc the next 2 being the starting angle and the ending angle repectively and the last one will be the radius.
 circle()=>Takes 3 parameters,the first 2 being the centre and the last one the radius.
 settextstyle()=>Takes 3 parammeters ,the first being font style second being the direction(horizontal or vertical) and the last will be the font size(How much times bigger?)
-outtextstyle()=>Takes 3 parameters, the first 2 being the coordinates and the last one the message to be displayed.
+outtextxy()=>Takes 3 parameters, the first 2 being the coordinates and the last one the message to be displayed.
