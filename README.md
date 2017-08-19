@@ -1,7 +1,7 @@
 # C-graphics-car-animation
 This is an example to show the various methods available in the C graphics library
-You should have a solid background of cooridinate system i,e basic school level Math. 
-Let's have a brief look at the various methods used in this code specifically reggarding their parameters.The method name is self explanatory in terms of what is does.
+You should have a solid background of co-ordinate system i,e basic school level Math. 
+Let's have a brief look at the various methods used in this code specifically regarding their parameters.The method name is self explanatory in terms of what is does.
 
 
 Various methods used in this code:
